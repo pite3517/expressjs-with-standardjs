@@ -1,0 +1,8 @@
+{
+  "extends": "standard",
+  "parser": "esprima",
+  "rules": {
+    "no-multiple-empty-lines": [2, {"max": 4}]
+  }
+}
+  
